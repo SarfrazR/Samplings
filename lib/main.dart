@@ -1,8 +1,8 @@
 // ignore_for_file: dead_code
 
 import 'package:flutter/material.dart';
-import 'package:practice/Welcome.dart';
-import 'Menu.dart';
+import 'pages/Welcome.dart';
+
 void main() {
   runApp(Welcome());
 }
